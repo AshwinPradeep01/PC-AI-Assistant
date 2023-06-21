@@ -1,0 +1,156 @@
+   {
+    "intents":[
+
+        {
+            "tag":"greeting",
+            "patterns":["hey","hello","hi","wake up","asterisk","buddy"
+            ],
+            "responses":["Hello Sir","What's up sir?","Yess sir","I m back sir","Your Assistant here","I m there sir"
+            ]
+        },
+        {
+            "tag":"parting",
+            "patterns":["see you","bye","goodbye","sleep","exit","take rest","take a break"
+            ],
+            "responses":["See you soon sir!","Bye Sir","Have a nice day sir","Don't hesitate to call sir","Wake me up anytime sir"
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["How are you","How is it going","What's up","Whats's new"
+            ],
+            "responses":["I am fine sir!","Pretty good day sir","Never better","Cool"
+            ]
+        },
+        {
+            "tag":"identity",
+            "patterns":["Who are you?","What are you?","What's up","Whats's new"
+            ],
+            "responses":["I am fine sir!","Pretty good day sir","Never better","Cool"
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["What is the time?","Time Please?","What time is it"
+            ],
+            "responses":["time"
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":["What is today's date?","Todays's date Please","Date Please"
+            ],
+            "responses":["date"
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":["What is today?","What's the day","Day Please"
+            ],
+            "responses":["day"
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["Who is","What is","wikipedia","means" ,"wikpedia search"
+            ],
+            "responses":["wikipedia"
+            ]
+        },
+        {
+            "tag":"whatsapp",
+            "patterns":["open whatsApp","Please switch on whatsapp","I need to text somebody","lets text someone","whatsapp"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"find_ip_address",
+            "patterns":["What's my ip address","My ip address please","ip address"
+            ],
+            "responses":["ip address"
+            ]
+        },
+        {
+            "tag":"youtube",
+            "patterns":["YouTube search","play it on youtube","on youtube","youtube please","Youtube"
+            ],
+            "responses":["youtube"
+            ]
+        },
+        {
+            "tag":"google search",
+            "patterns":["Google Search","search Google","","google it"
+            ],
+            "responses":["google search"
+            ]
+        },
+        {
+            "tag":"weather",
+            "patterns":["What's the weather today","Weather today","","What is today's weather?", "Weather please", "how is the weather","how's the weather"
+            ],
+            "responses":["weather"
+            ]
+        },
+        {
+            "tag":"camera",
+            "patterns":["Open camera","Need to take a pic","","Let's take a shot"
+            ],
+            "responses":["camera"
+            ]
+        },
+        {
+            "tag":"music",
+            "patterns":["songs please","let's play some music","","play songs","Lets get some beats","play some music"
+            ],
+            "responses":["music"
+            ]
+        },
+        {
+            "tag":"email",
+            "patterns":["Want to send a mail","email","","open email","send a mail"
+            ],
+            "responses":["email"
+            ]
+        },
+        {
+            "tag":"alarm",
+            "patterns":["set an alarm","alarm set","turn on alarm","alarm please!"
+            ],
+            "responses":["alarm"
+            ]
+        },
+        {
+            "tag":"news",
+            "patterns":["the news updates?","today's news?","what's the news","latest news please","lets see some headlines"
+            ],
+            "responses":["news"
+            ]
+        },
+        {
+            "tag":"remind message",
+            "patterns":["There is a reminder","remind me to","remind me","remind to","remind me something. would you?"
+            ],
+            "responses":["remind message"
+            ]
+        },
+        {
+            "tag":"reminder",
+            "patterns":["Feels like i forgot something?","Any reminders","Did i ask you anything?","Did I forget something?"
+            ],
+            "responses":["reminder"
+            ]
+        },
+        {
+            "tag":"jokes",
+            "patterns":["let's hear some jokes. shall we?","Got some humor? buddy?","some jokes please","Let's check your humor sense"
+            ],
+            "responses":["jokes"
+            ]
+        }
+
+
+    ]
+
+
+}
